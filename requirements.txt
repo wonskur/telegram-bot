@@ -1,3 +1,2 @@
 python-dotenv
-aiogran
-asyncio
+aiogram
