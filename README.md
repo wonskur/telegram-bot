@@ -15,3 +15,13 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+## Запуск
+в той же директории где находятся хотя бы один из файлов(AI_bot.py и Subscribe.py) вводим одну из команд
+если надо запустить AI_bot.py:
+```bash
+python3 AI_bot.py
+```
+если Subscribe.py то:
+```bash
+python3 Subscribe.py
+```
