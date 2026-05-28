@@ -15,6 +15,7 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+## НЕ ЗАБУДЬТЕ ПРО .env
 ## Запуск
 в той же директории где находятся хотя бы один из файлов(AI_bot.py и Subscribe.py) вводим одну из команд
 если надо запустить AI_bot.py:
